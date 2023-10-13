@@ -1,5 +1,5 @@
 ### Hi 👋
-The [Qualitative Data Repository (QDR)](https://qdr.syr.edu/) serves qualitative and mixed methods researchers by providing tools, platforms, and methods for reliably sharing rearch data. This github organization is where we...
+The [Qualitative Data Repository (QDR)](https://qdr.syr.edu/) serves qualitative and mixed methods researchers by providing tools, platforms, and methods for reliably sharing research data. This github organization is where we...
 
 - 💾 maintain the core infrastructure that runs QDR
 - 🤝 collaborate with open-source projects, including our good friends at [Dataverse](https://dataverse.org/) and [Drupal](https://www.drupal.org/)
